@@ -1,5 +1,6 @@
 body {
     background: mintcream;
+    font-family: "Heiti SC";
 }
 
 ul {
@@ -31,4 +32,8 @@ a {
     display: block;
     text-align: center;
     font-size: .9em;
+}
+
+.caption-item {
+    text-align: center;
 }
